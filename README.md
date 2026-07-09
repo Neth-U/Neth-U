@@ -1,7 +1,7 @@
 
 <h1 align=center>Hi👋 I'm <a href="https://github.com/Neth-U">Neth-U</a></h1>
 <p align="center">
-  <img src="./about_me.gif" width="200"> 
+  <img src="./about_me.gif" width="200" fetchpriority="high"> 
 </p>
 <h3 align="center"> Computer Science Undergraduate 💻 </h3>
 <h3 align="center"> Learning something new everyday 🚀</h3>
