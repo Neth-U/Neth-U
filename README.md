@@ -1,10 +1,9 @@
 
-<h1 align=center>Hi👋 I'm <a href="https://github.com/Neth-U">Neth-U</a></h1>
+<h1 align="center">Hi👋 I'm Neth-U</h1>
 <p align="center">
-  <img src="./about_me.gif" width="200" fetchpriority="high"> 
+  <img src="./cat.gif" width="200"> 
 </p>
 <h3 align="center"> Computer Science Undergraduate 💻 </h3>
-<h3 align="center"> Learning something new everyday 🚀</h3>
 
 <hr>
 
@@ -12,9 +11,9 @@
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java" /><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=c" /><span>&nbsp;&nbsp&nbsp;&nbsp;</span>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" /><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html" /><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=css" /><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" />
 </p>
 
 <br>
@@ -34,6 +33,7 @@
 
 <br>
 <h2 align="center">🔥 Language & Coding Activity</h2>
+<br>
 <div width="100%" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=Neth-U&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
@@ -43,8 +43,9 @@
 </div>
 
 <br>
-<h2 align="center">🏆 GitHub Trophies</h2>
-
+<!--
+<h2 align="center">🏆 GitHub Trophies</h2> -->
+<!--
 <div width="100%" align="center">
   <a href="https://github.com/Neth-U">
     <picture>
@@ -53,7 +54,11 @@
       <img width="804px" alt="GitHub Trophies" src="https://github-profile-trophy-ranit.vercel.app/?username=Neth-U&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
     </picture>
   </a>
-</div>
+</div> 
+-->
+
+
+
 
 <br>
 
