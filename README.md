@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi👋 I'm Neth-U</h1>
 <p align="center">
-  <img src="./cat.gif" width="200"> 
+  <img src="./cat-loop.gif" width="200"> 
 </p>
 <h3 align="center"> Computer Science Undergraduate 💻 </h3>
 
